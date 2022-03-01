@@ -1,6 +1,6 @@
---------------Question_1--------------
+#Question_1
 
-___________Question_1.1___________
+###Question_1.1
 
 [22,27,16,2,18,6] is a given string of numbers.
 
@@ -14,11 +14,11 @@ Steps will be like,
 
 3. 2,6,16,18,22,27
 
-___________Question_1.2___________
+'Question_1.2
 
 O(n^2)
 
-___________Question_1.3___________
+'Question_1.3
 
 -Time Complexity-
 
@@ -28,15 +28,15 @@ we are looking for "18" so its included in the "average case".
                                                                           
 Description of the different types.
 
-___________Question_1.4___________
+'Question_1.4
 
 Average case.
 
---------------Question_2--------------
+###Question_2
 
 [7,3,5,8,2,9,4,15,6] is a given string of numbers.
 
-If sorted by "Insertion Sort" method;
+'If sorted by "Insertion Sort" method;
 
 Steps will be like,
 
